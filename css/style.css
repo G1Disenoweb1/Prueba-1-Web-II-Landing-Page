@@ -88,6 +88,33 @@ header{
 	text-transform: uppercase;
 }
 
+#coaches{
+	text-align: center;
+	padding: 5% 0;
+	background-color: var(--fondo-gris);
+}
+
+#coaches h4{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 800;
+	font-size: 20px;
+	color: var(--titulos);
+}
+
+#coaches p{
+	text-transform: uppercase;
+}
+
+#gallery{
+	text-align: center;
+	padding: 5% 0;
+}
+
+#gallery .texto-grande{
+	font-size: 30px;
+	text-align: left;
+}
+
 #welcome h2 {
 	padding-top: 70px;
 }
